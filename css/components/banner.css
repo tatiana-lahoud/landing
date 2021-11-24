@@ -1,0 +1,21 @@
+.banner{
+  background-image: linear-gradient(-225deg,rgba(0,0,0,0.9)0%,rgba(0,0,0,0.3)50%),url(../../images/studio.jpeg);
+  background-size: cover;
+  background-position: center;
+  padding : 150px 0px;
+  color: white ;
+}
+
+.banner h1{
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+.banner h2{
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+  font-display: ;
+  margin-bottom: 50px;
+  opacity: 0.8;
+}
